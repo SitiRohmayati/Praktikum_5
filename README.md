@@ -15,3 +15,7 @@ Penjelasan Program Sederhana Yang Akan Menampilkan Daftar Nilai Mahasiswa, Denga
 ![Screenshot (124)](https://user-images.githubusercontent.com/56973033/70253564-0692eb80-17b6-11ea-8b04-a08ecf079616.png)
 ![Screenshot (125)](https://user-images.githubusercontent.com/56973033/70253618-18748e80-17b6-11ea-8f49-87eb23936b66.png)
 
+12. Dibawah ini flowchartnya :
+
+![Screenshot (128)](https://user-images.githubusercontent.com/56973033/70339850-30194900-1882-11ea-8f7a-44e376ed7791.png)
+
